@@ -98,7 +98,7 @@ print(player1.attack())
 print(player2.attack())
 print(player3.heal())
 print(player4.heal())
-
+print('ok')
 
         
         
